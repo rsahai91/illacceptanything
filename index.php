@@ -17,6 +17,7 @@
 	</style>
 </head>
 <body>
+<marquee> Downloading RAM brb </marquee>
 <?php
 echo 'fart'; 
 ?>
